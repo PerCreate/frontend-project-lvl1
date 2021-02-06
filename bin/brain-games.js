@@ -1,5 +1,9 @@
-#!/usr/bin/env node
+#!/usr/bin/env node;
+/* eslint-disable import/extensions */
+/* eslint-disable import/no-unresolved */
+/*  eslint linebreak-style: ["error", "windows"]  */
+import cli from 'src/cli.js';
 
-import cli from 'src/cli.js'
-console.log('Welcome to the Brain Games!')
-cli()
+// eslint-disable-next-line no-console
+console.log('Welcome to the Brain Games!');
+cli();

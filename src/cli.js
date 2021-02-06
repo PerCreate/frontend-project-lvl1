@@ -1,7 +1,9 @@
-import readlineSync from 'readline-sync'
+/* eslint-disable no-console */
+/*  eslint linebreak-style: ["error", "windows"]  */
+import readlineSync from 'readline-sync';
 
 const cli = () => {
-    let userName = readlineSync.question('May I have your name? ')
-    return console.log('Hello,' + userName + '!')
+  const userName = readlineSync.question('May I have your name? ');
+  return console.log(`Hello,${userName}!`);
 };
-export default cli
+export default cli;
