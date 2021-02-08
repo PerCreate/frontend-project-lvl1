@@ -8,7 +8,7 @@ import progression from '../logic-game.js';
 console.log('Welcome to the Brain Games!');
 const userName = readlineSync.question('May I have your name? ');
 console.log(`Hello,${userName}!`);
-console.log('Answer "yes" if the number is even, otherwise answer "no".');
+console.log('What number is missing in the progression?');
 
 const question1 = String('15 20 25 30 ... 40 45 50');
 const question2 = String('30 33 36 ... 42 45 48');
