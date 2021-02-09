@@ -1,7 +1,8 @@
-/* eslint-disable linebreak-style */
-/* eslint-disable import/extensions */
-/* eslint-disable no-unused-vars */
+#! /usr/bin/env node
 /* eslint-disable no-console */
+/* eslint-disable import/extensions */
+/* eslint-disable import/no-unresolved */
+/*  eslint linebreak-style: ["error", "windows"]  */
 import readlineSync from 'readline-sync';
 import isPrime from '../logic-game.js';
 

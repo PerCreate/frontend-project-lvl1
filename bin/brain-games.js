@@ -1,4 +1,4 @@
-#!/usr/bin/env node;
+#! /usr/bin/env node
 /* eslint-disable import/extensions */
 /* eslint-disable import/no-unresolved */
 /*  eslint linebreak-style: ["error", "windows"]  */

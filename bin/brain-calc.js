@@ -1,6 +1,8 @@
-/* eslint-disable linebreak-style */
+#! /usr/bin/env node
 /* eslint-disable no-console */
 /* eslint-disable import/extensions */
+/* eslint-disable import/no-unresolved */
+/*  eslint linebreak-style: ["error", "windows"]  */
 import readlineSync from 'readline-sync';
 import calc from '../logic-game.js';
 
