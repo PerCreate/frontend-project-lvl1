@@ -8,7 +8,7 @@ import gcd from '../logic-game.js';
 
 console.log('Welcome to the Brain Games!');
 const userName = readlineSync.question('May I have your name? ');
-console.log(`Hello,${userName}!`);
+console.log(`Hello,${userName}`);
 console.log('Find the greatest common divisor of given numbers.');
 
 const question1 = String('15 5');

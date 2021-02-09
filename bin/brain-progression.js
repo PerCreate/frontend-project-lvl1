@@ -8,7 +8,7 @@ import progression from '../logic-game.js';
 
 console.log('Welcome to the Brain Games!');
 const userName = readlineSync.question('May I have your name? ');
-console.log(`Hello,${userName}!`);
+console.log(`Hello,${userName}`);
 console.log('What number is missing in the progression?');
 
 const question1 = String('15 20 25 30 ... 40 45 50');
