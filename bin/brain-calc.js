@@ -1,5 +1,5 @@
 #! /usr/bin/env node
-
+/*  eslint linebreak-style: ["error", "windows"]  */
 import readlineSync from 'readline-sync';
 import calc from '../logic-game.js';
 
