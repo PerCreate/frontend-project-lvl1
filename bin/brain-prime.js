@@ -15,7 +15,7 @@ const question1 = String('6');
 const question2 = String('9');
 const question3 = String('3');
 const answer1 = String('no');
-const answer2 = String('yes');
+const answer2 = String('no');
 const answer3 = String('yes');
 
 isPrime(question1, answer1, question2, answer2, question3, answer3, userName);
