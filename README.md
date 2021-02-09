@@ -1,5 +1,7 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/PerCreate/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/PerCreate/frontend-project-lvl1/actions)
+[![Maintainability](https://api.codeclimate.com/v1/badges/5021bb42d48e00ac3a82/maintainability)](https://codeclimate.com/github/PerCreate/frontend-project-lvl1/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/5021bb42d48e00ac3a82/test_coverage)](https://codeclimate.com/github/PerCreate/frontend-project-lvl1/test_coverage)
 Ascinema brain-games https://asciinema.org/a/BElleeWHO8qKAJNoTj7wv0n5n
 Ascinema brain-even win: https://asciinema.org/a/lTtzYMBwEcnKmuwwwsZe74Cff, loss:https://asciinema.org/a/8EcD3D0Zu2WlE6SXzPyaAMKTy
 Ascinema brain-calc win: https://asciinema.org/a/83yolcOVjYnKjMNfAwEMxjLbD, loss:https://asciinema.org/a/hIMBojYA8JQw042yuin9aguMv
