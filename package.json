@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/PerCreate/frontend-project-lvl1#readme",
   "bin": {
-    "code": "brain-games.js",
+    "code": "bin/brain-games.js",
     "brain-games": "bin/brain-games.js",
     "brain-even": "bin/brain-even.js",
     "brain-calc": "bin/brain-calc.js",
