@@ -1,5 +1,4 @@
 /* eslint-disable no-console */
-/*  eslint linebreak-style: ["error", "windows"]  */
 import readlineSync from 'readline-sync';
 
 const cli = () => {

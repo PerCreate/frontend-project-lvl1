@@ -1,6 +1,3 @@
-/* eslint-disable linebreak-style */
-/* eslint-disable no-console */
-/* eslint-disable linebreak-style */
 import readlineSync from 'readline-sync';
 
 const sameGameLogic = (question1, answer1, question2, answer2, question3, answer3, userName) => {
