@@ -9,7 +9,7 @@ const sameGameLogic = (question1, answer1, question2, answer2, question3, answer
     console.log(`Question: ${numbers[i][0]}`);
     const userAnswer = readlineSync.question('Your answer: ');
     if (userAnswer === numbers[i][1]) console.log('Correct!');
-    else if (userAnswer !== numbers[i][1]) return console.log(`${userAnswer} is wrong answer ;(. Correct answer was ${numbers[i][1]}. \nLets try again, ${userName}!`);
+    else if (userAnswer !== numbers[i][1]) return console.log(`${userAnswer} is wrong answer ;(. Correct answer was ${numbers[i][1]}. \nLet's try again, ${userName}!`);
   }
   return console.log(`Congratulations, ${userName}!`);
 };
